@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.box1{
+    width: 200px;
+    height: 800px;
+    background-color: yellow;
+    margin: 2em;
+    float: left;
+    border: black solid 2px;
+}
+
+.box2{
+    width: 200px;
+    height: 800px;
+    background-color: chocolate;
+    float: left;
+    margin: 2em;
+    border: black solid 2px;
+}
+
+.box3{
+    width: 200px;
+    height: 800px;
+    background-color: cadetblue;
+    float: left;
+    margin: 2em;
+    border: black solid 2px;
+}
+
+.box4{
+    width: 200px;
+    height: 800px;
+    background-color: cornflowerblue;
+    float: left;
+    margin: 2em;
+    border: black solid 2px;
+}

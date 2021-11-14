@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.box_panjang{
+    width: 1300px;
+    height: 100px;
+    background-color: chartreuse;
+    float: left;
+    margin: 1em;
+    border: black solid 2px;
+}
+
+.box_kotak1{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    margin: 1em;
+    border: black solid 2px;
+}
+
+.box_panjang1{
+    width: 1160px;
+    height: 100px;
+    background-color: red;
+    float: left;
+    margin: 1em;
+    border: black solid 2px;
+}
+
+.box_kotak2{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    margin: 1em;
+    border: black solid 2px;
+}
+
+.box_panjang2{
+    width: 1160px;
+    height: 100px;
+    background-color: cornflowerblue;
+    float: left;
+    margin: 1em;
+    border: black solid 2px;
+}
